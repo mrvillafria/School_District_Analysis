@@ -18,12 +18,35 @@ The District Summary shows an overview of the school district's performance. We 
 ![district_summary_new](/Resources/district_summary_new.PNG)
 
 ### School Summary
-The School Summary reports statistics based on each school in the district. In the updated School Summary, we calculated the number of 10th-12th graders in Thomas High School and used this number to recalculate and replace the existing information around the students who passed math and reading for Thomas High School. As you can see below, there is very minimal change for Thomas High School and all the other schools' information remains the same. 
+The School Summary reports statistics based on each school in the district. In the updated School Summary, we first calculated the number of 10th-12th graders in Thomas High School. We then used this number to recalculate and replace the existing information around the students who passed math and reading for Thomas High School. As you can see below, there is very minimal change for Thomas High School and all the other schools' information remains the same.
 
 #### Original School Summary
 ![per_school_summary_original](/Resources/per_school_summary_original.PNG)
 
 #### Updated School Summary
 ![per_school_summary_new](/Resources/per_school_summary_new.PNG)
+
+### Performance of Schools Based on Overall Passing Rate
+Replacing the ninth graders' math and reading scores showed very minimal changes in our results. The updates overall did not affect Thomas High School's performance relative to other schools. Thomas High School remains in the top 5 performing schools. The bottom 5 schools have not changed. 
+
+#### Original Top 5 Performing Schools
+![top_five_original](/Resources/top_five_original.PNG)
+
+#### Updated Top 5 Performing Schools
+![top_five_new](/Resources/top_five_new.PNG)
+
+#### Original Bottom 5 Performing Schools
+![bottom_five_original](/Resources/bottom_five_original.PNG)
+
+#### Updated Bottom 5 Performing Schools
+![bottom_five_new](/Resources/bottom_five_new.PNG)
+
+
+### Math and Reading Scores by Grade
+### Scores by School Spending
+### Scores by School Size
+### Scores by School Type
+
+### Overall Affects of Replacing Scores
 
 ## Summary
