@@ -41,8 +41,17 @@ Replacing the ninth graders' math and reading scores showed very minimal changes
 #### Updated Bottom 5 Performing Schools
 ![bottom_five_new](/Resources/bottom_five_new.PNG)
 
-
 ### Math and Reading Scores by Grade
+
+|Original Math Scores by Grade     |Updated Math Scores by Grade      |
+|------------|-------------|
+|![math_scores_by_grade_original](/Resources/math_scores_by_grade_original.PNG)|![math_scores_by_grade_new](/Resources/math_scores_by_grade_new.PNG)|
+
+
+|Original Reading Scores by Grade     |Updated Reading Scores by Grade      |
+|------------|-------------|
+|![reading_scores_by_grade_original](/Resources/reading_scores_by_grade_original.PNG)|![reading_scores_by_grade_new](/Resources/reading_scores_by_grade_new.PNG)|
+
 ### Scores by School Spending
 ### Scores by School Size
 ### Scores by School Type
