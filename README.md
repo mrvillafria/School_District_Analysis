@@ -53,29 +53,33 @@ The biggest change of results is shown below because it is based by grade. Since
 |------------|-------------|
 |![reading_scores_by_grade_original](/Resources/reading_scores_by_grade_original.PNG)|![reading_scores_by_grade_new](/Resources/reading_scores_by_grade_new.PNG)|
 
-### Scores by School Spending
-#### Original Scores by School Spending Per Student
+
+### Other Results
+The other results such as scores by school spending per student, score by school size, and scores by school type had the least changes after replacing Thomas High School's ninth grade scores.
+
+#### Scores by School Spending
+##### Original Scores by School Spending Per Student
 ![spending_ranges_original](/Resources/spending_ranges_original.PNG)
 
 ![spending_summary_original](/Resources/spending_summary_original.PNG)
 
-#### Updated Scores by School Spending Per Student
+##### Updated Scores by School Spending Per Student
 ![spending_ranges_new](/Resources/spending_ranges_new.PNG)
 
 ![spending_summary_new](/Resources/spending_summary_new.PNG)
 
-### Scores by School Size
-#### Original Scores by School Size Summary
+#### Scores by School Size
+##### Original Scores by School Size Summary
 ![size_summary_original](/Resources/size_summary_original.PNG)
 
-#### Updated Scores by School Size Summary
+##### Updated Scores by School Size Summary
 ![size_summary_new](/Resources/size_summary_new.PNG)
 
-### Scores by School Type
-#### Original Scores by School Type
+#### Scores by School Type
+##### Original Scores by School Type
 ![type_summary_original](/Resources/type_summary_original.PNG)
 
-#### Updated Scores by School Type
+##### Updated Scores by School Type
 ![type_summary_new](/Resources/type_summary_new.PNG)
 
 ## Summary
