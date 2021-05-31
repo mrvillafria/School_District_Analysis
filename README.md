@@ -8,7 +8,7 @@ The purpose of this week's project was to help Maria, a chief data scientist for
 
 ## Results
 
-### District Summary
+- ### District Summary
 The District Summary shows an overview of the school district's performance. We recalculated the data from the original District Summary by removing the number of Thomas High School's ninth grade students from the total student count. The updated District Summary below shows the recalculated student count, average math and reading scores, passing math and reading percentages, and overall passing percentage. There are small decreases for average math score, passing math percentage, passing reading percentage, and overall passing percentage. All in all, there are very minimal changes for the average scores and percentages even after removing 461 students from the total student count.
 
 #### Original District Summary
