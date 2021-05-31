@@ -86,10 +86,11 @@ Thomas High School is a Charter school type. There is little to no change after 
 ![type_summary_new](/Resources/type_summary_new.PNG)
 
 ## Summary
-After replacing the Thomas High School's ninth grade scores, there was very minor changes in our results. Only 461 students had their reading and math scores changed to NaN which is very small percentage of the total student count. Here are a few changes in the updated school district analysis:
+After replacing the Thomas High School's ninth grade scores, there was very minor changes in our results. Only 461 students had their reading and math scores changed to NaN which is very small percentage of the total student count. Here are some changes in the updated school district analysis:
 - We no longer have the average of math and reading scores for ninth grade students at Thomas High School and they are replaced with NaN
 - In the District Summary, the passing math and reading percentages decreased:
 	- Passing Math %: 75.0% to 74.8%
 	- Passing Reading %: 85.8% to 85.7%
 - The overall passing percentage in the District Summary decreased slightly from 65.2% to 64.9%
+- For Thomas High School, the average reading score increased slightly from 83.8% to 83.9%
 - For Thomas High School, the overall passing percentage decreased slightly from 90.9% to 90.6%
