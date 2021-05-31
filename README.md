@@ -17,7 +17,7 @@ The District Summary shows an overview of the school district's performance. We 
 #### Updated District Summary
 ![district_summary_new](/Resources/district_summary_new.PNG)
 
-### School Summary
+- ### School Summary
 The School Summary reports statistics based on each school in the district. In the updated School Summary, we first calculated the number of 10th-12th graders in Thomas High School. We then used this number to recalculate and replace the existing information for the students who passed math and reading for Thomas High School. While comparing the data for Thomas High School, there were small decreases in average math score, passing math percentage, passing reading percentage, and overall passing percentage. There was an increase in average reading score. All the other schools' information remains the same.
 
 #### Original School Summary
@@ -26,7 +26,7 @@ The School Summary reports statistics based on each school in the district. In t
 #### Updated School Summary
 ![per_school_summary_new](/Resources/per_school_summary_new.PNG)
 
-### Performance of Schools Based on Overall Passing Rate
+- ### Performance of Schools Based on Overall Passing Rate
 Replacing the ninth graders' math and reading scores showed very minimal changes in our results. The updates overall did not affect Thomas High School's performance relative to other schools. Thomas High School remains in the top 5 performing schools. The bottom 5 schools have not changed. 
 
 #### Original Top 5 Performing Schools
@@ -41,7 +41,7 @@ Replacing the ninth graders' math and reading scores showed very minimal changes
 #### Updated Bottom 5 Performing Schools
 ![bottom_five_new](/Resources/bottom_five_new.PNG)
 
-### Math and Reading Scores by Grade
+- ### Math and Reading Scores by Grade
 The biggest change of results is shown below because it is based by grade. Since we were only replacing 9th graders from Thomas High School's scores with NaN, you can see that value changed for both reading and math. The rest of the data in the file is the same because we did not update or replace that data. 
 
 |Original Math Scores by Grade     |Updated Math Scores by Grade      |
@@ -57,7 +57,7 @@ The biggest change of results is shown below because it is based by grade. Since
 ### Other Results
 The other results such as scores by school spending per student, score by school size, and scores by school type had the least changes after replacing Thomas High School's ninth grade scores.
 
-#### Scores by School Spending
+- #### Scores by School Spending
 Thomas High School falls under the $630-644 spending range per student. As you can see from the summary of spending ranges, there are unnoticable changes after the update. 
 ##### Original Scores by School Spending Per Student
 ![spending_ranges_original](/Resources/spending_ranges_original.PNG)
@@ -69,7 +69,7 @@ Thomas High School falls under the $630-644 spending range per student. As you c
 
 ![spending_summary_new](/Resources/spending_summary_new.PNG)
 
-#### Scores by School Size
+- #### Scores by School Size
 Thomas High School falls under the Medium (1000-2000) school size category. There is little to no change after the update. 
 ##### Original Scores by School Size Summary
 ![size_summary_original](/Resources/size_summary_original.PNG)
@@ -77,7 +77,7 @@ Thomas High School falls under the Medium (1000-2000) school size category. Ther
 ##### Updated Scores by School Size Summary
 ![size_summary_new](/Resources/size_summary_new.PNG)
 
-#### Scores by School Type
+- #### Scores by School Type
 Thomas High School is a Charter school type. There is little to no change after the update for both school types.
 ##### Original Scores by School Type
 ![type_summary_original](/Resources/type_summary_original.PNG)
