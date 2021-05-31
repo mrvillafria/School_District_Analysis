@@ -9,7 +9,7 @@ The purpose of this week's project was to help Maria, a chief data scientist for
 ## Results
 
 ### District Summary
-The District Summary shows an overview of the school district's performance. We recalculated the data from the original District Summary by removing the number of Thomas High School's ninth grade students from the total student count. The updated District Summary below shows the recalculated student count, average math and reading scores, passing math and reading percentages, and overall passing percentage. Overall, there is very minimal change for the average scores and percentages even after removing 461 students from the total student count.
+The District Summary shows an overview of the school district's performance. We recalculated the data from the original District Summary by removing the number of Thomas High School's ninth grade students from the total student count. The updated District Summary below shows the recalculated student count, average math and reading scores, passing math and reading percentages, and overall passing percentage. There are small decreases for average math score, passing math percentage, passing reading percentage, and overall passing percentage. All in all, there are very minimal changes for the average scores and percentages even after removing 461 students from the total student count.
 
 #### Original District Summary
 ![district_summary_original](/Resources/district_summary_original.PNG)
@@ -18,7 +18,7 @@ The District Summary shows an overview of the school district's performance. We 
 ![district_summary_new](/Resources/district_summary_new.PNG)
 
 ### School Summary
-The School Summary reports statistics based on each school in the district. In the updated School Summary, we first calculated the number of 10th-12th graders in Thomas High School. We then used this number to recalculate and replace the existing information around the students who passed math and reading for Thomas High School. As you can see below, there is very minimal change for Thomas High School and all the other schools' information remains the same.
+The School Summary reports statistics based on each school in the district. In the updated School Summary, we first calculated the number of 10th-12th graders in Thomas High School. We then used this number to recalculate and replace the existing information for the students who passed math and reading for Thomas High School. While comparing the data for Thomas High School, there were small decreases in average math score, passing math percentage, passing reading percentage, and overall passing percentage. There was an increase in average reading score. All the other schools' information remains the same.
 
 #### Original School Summary
 ![per_school_summary_original](/Resources/per_school_summary_original.PNG)
@@ -89,7 +89,7 @@ Thomas High School is a Charter school type. There is little to no change after 
 After replacing the Thomas High School's ninth grade scores, there was very minor changes in our results. Only 461 students had their reading and math scores changed to NaN which is very small percentage of the total student count. Here are a few changes in the updated school district analysis:
 - We no longer have the average of math and reading scores for ninth grade students at Thomas High School and they are replaced with NaN
 - In the District Summary, the passing math and reading percentages decreased:
-		- Passing Math %: 75.0% to 74.8%
-		- Passing Reading %: 85.8% to 85.7%
+	- Passing Math %: 75.0% to 74.8%
+	- Passing Reading %: 85.8% to 85.7%
 - The overall passing percentage in the District Summary decreased slightly from 65.2% to 64.9%
 - For Thomas High School, the overall passing percentage decreased slightly from 90.9% to 90.6%
