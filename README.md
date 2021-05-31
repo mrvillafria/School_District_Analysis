@@ -9,7 +9,7 @@ The purpose of this week's project was to help Maria, a chief data scientist for
 ## Results
 
 ### District Summary
-The District Summary shows a high-level overview of the school district. We recalculated the data from the original District Summary by removing the number of Thomas High School's ninth grade students from the total student count. The updated District Summary below shows the recalculated student count, average math and reading scores, passing math and reading percentages, and overall passing percentage. Overall, there is a very minimal change for the average scores and percentages even after removing 461 students from the total student count.
+The District Summary shows an overview of the school district's performance. We recalculated the data from the original District Summary by removing the number of Thomas High School's ninth grade students from the total student count. The updated District Summary below shows the recalculated student count, average math and reading scores, passing math and reading percentages, and overall passing percentage. Overall, there is very minimal change for the average scores and percentages even after removing 461 students from the total student count.
 
 #### Original District Summary
 ![district_summary_original](/Resources/district_summary_original.PNG)
@@ -18,5 +18,12 @@ The District Summary shows a high-level overview of the school district. We reca
 ![district_summary_new](/Resources/district_summary_new.PNG)
 
 ### School Summary
+The School Summary reports statistics based on each school in the district. In the updated School Summary, we calculated the number of 10th-12th graders in Thomas High School and used this number to recalculate and replace the existing information around the students who passed math and reading for Thomas High School. As you can see below, there is very minimal change for Thomas High School and all the other schools' information remains the same. 
+
+#### Original School Summary
+![per_school_summary_original](/Resources/per_school_summary_original.PNG)
+
+#### Updated School Summary
+![per_school_summary_new](/Resources/per_school_summary_new.PNG)
 
 ## Summary
