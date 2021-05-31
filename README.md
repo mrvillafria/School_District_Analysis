@@ -58,6 +58,7 @@ The biggest change of results is shown below because it is based by grade. Since
 The other results such as scores by school spending per student, score by school size, and scores by school type had the least changes after replacing Thomas High School's ninth grade scores.
 
 #### Scores by School Spending
+Thomas High School falls under the $630-644 spending range per student. As you can see from the summary of spending ranges, there are unnoticable changes after the update. 
 ##### Original Scores by School Spending Per Student
 ![spending_ranges_original](/Resources/spending_ranges_original.PNG)
 
@@ -69,6 +70,7 @@ The other results such as scores by school spending per student, score by school
 ![spending_summary_new](/Resources/spending_summary_new.PNG)
 
 #### Scores by School Size
+Thomas High School falls under the Medium (1000-2000) school size category. There is little to no change after the update. 
 ##### Original Scores by School Size Summary
 ![size_summary_original](/Resources/size_summary_original.PNG)
 
@@ -76,6 +78,7 @@ The other results such as scores by school spending per student, score by school
 ![size_summary_new](/Resources/size_summary_new.PNG)
 
 #### Scores by School Type
+Thomas High School is a Charter school type. There is little to no change after the update for both school types.
 ##### Original Scores by School Type
 ![type_summary_original](/Resources/type_summary_original.PNG)
 
@@ -83,3 +86,10 @@ The other results such as scores by school spending per student, score by school
 ![type_summary_new](/Resources/type_summary_new.PNG)
 
 ## Summary
+After replacing the Thomas High School's ninth grade scores, there was very minor changes in our results. Only 461 students had their reading and math scores changed to NaN which is very small percentage of the total student count. Here are a few changes in the updated school district analysis:
+- We no longer have the average of math and reading scores for ninth grade students at Thomas High School and they are replaced with NaN
+- In the District Summary, the passing math and reading percentages decreased:
+		- Passing Math %: 75.0% to 74.8%
+		- Passing Reading %: 85.8% to 85.7%
+- The overall passing percentage in the District Summary decreased slightly from 65.2% to 64.9%
+- For Thomas High School, the overall passing percentage decreased slightly from 90.9% to 90.6%
